@@ -3,7 +3,7 @@
 ##Requirements:
 
 ###REACT:
-## Available Scripts
+
 
 Index page showing 10 albums
 
